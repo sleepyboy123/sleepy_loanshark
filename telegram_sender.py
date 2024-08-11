@@ -8,7 +8,7 @@ from telethon.sessions import StringSession
 
 application = sys.argv[1]
 
-chase_users = ["tanzyzy", "vcwd96"]
+chase_users = ["tanzyzy", "vcwd96", "sleepyboy123"]
 
 current_month = datetime.now().strftime("%B")
 
